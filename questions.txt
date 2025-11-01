@@ -1,0 +1,27 @@
+[CATEGORY:DSA]
+Which data structure uses LIFO?|Queue|Stack|Array|Linked List|Stack
+Time complexity of binary search?|O(n)|O(log n)|O(n²)|O(1)|O(log n)
+Which is not a stable sorting algorithm?|Merge Sort|Bubble Sort|Quick Sort|Insertion Sort|Quick Sort
+In a BST, left child is ___ right child.|Equal to|Greater than|Less than|None|Less than
+Hash tables resolve collision using?|Linear Probing|Binary Search|Recursion|Stack|Linear Probing
+Dijkstra's algorithm is used for?|Sorting|Searching|Shortest Path|Tree Traversal|Shortest Path
+What is the time complexity of inserting at the end of a linked list?|O(1)|O(n)|O(log n)|O(n²)|O(1)
+Which tree has all levels filled except possibly the last?|Complete Binary Tree|Full Binary Tree|Perfect Binary Tree|Balanced Tree|Complete Binary Tree
+
+[CATEGORY:DBMS]
+Which is not a type of join?|Inner|Outer|Cross|Diagonal|Diagonal
+Primary key ensures?|Uniqueness|Duplicates|Null values|Sorting|Uniqueness
+SQL stands for?|Simple Query Language|Structured Query Language|Standard Query Language|Sequential Query Language|Structured Query Language
+Normalization reduces?|Data Integrity|Redundancy|Speed|Size|Redundancy
+Which is a DDL command?|SELECT|INSERT|CREATE|UPDATE|CREATE
+ACID property ensures?|Speed|Reliability|Security|Scalability|Reliability
+Which normal form eliminates transitive dependency?|1NF|2NF|3NF|BCNF|3NF
+
+[CATEGORY:PYTHON]
+Which is mutable?|String|Tuple|List|Frozenset|List
+Python is ____ typed.|Statically|Dynamically|Weakly|Strongly|Dynamically
+To create a virtual environment?|python -m venv|pip install venv|virtualenv create|env create|python -m venv
+Lambda is used for?|Loops|Anonymous functions|Classes|Files|Anonymous functions
+Which is not a Python keyword?|pass|global|local|yield|local
+List comprehension is used for?|Faster list creation|Debugging|File handling|Networking|Faster list creation
+What does __init__ do?|Constructor|Destructor|Iterator|Generator|Constructor
